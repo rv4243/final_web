@@ -1,0 +1,14 @@
+<div class="sidenav">
+  <button mat-button (click)="doFilter('female')" id="jwell">Jewellery</button>
+  <button mat-button (click)="doFilter('women')" id="nighty">Nighty</button>
+  <button mat-button (click)="doFilter('men')" id="saree">Saree</button>
+  <button mat-button (click)="doFilter('women')" id="sudi">Sudi</button>
+  <button mat-button (click)="doFilter('no')" id="clear">Clear</button>
+  </div>
+  
+  <div class="content">
+    <div *ngFor="let item of filteredList">
+      {{ item.name }} <!-- Display filtered items here -->
+    </div>
+  </div>
+  

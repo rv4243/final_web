@@ -1,0 +1,2278 @@
+{
+  "items": [
+    {
+      "id" : 1,
+      "title": "Stone necklace ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/1/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 740/-",
+      "gender":"men"
+    },
+    {
+      "id" : 2,
+      "title": "Stone necklace ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/1/img2.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 740/-",
+      "gender":"women"
+
+    },
+    {
+      "id" : 3,
+      "title": "Stone necklace ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/1/vid1.mp4",
+      "mediaType": "video",
+      "category" : "jwellery",
+      "price":"Price : 740/-"
+    },
+    {
+      "id" :4 ,
+      "title": "Stone necklace ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/1/vid2.mp4",
+      "mediaType": "video",
+      "category" : "jwellery",
+      "price":"Price : 740/-"
+    },
+    {
+      "id" : 5,
+      "title": "Impon bracelet",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/2/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 320/-"
+    },
+    {
+      "id" : 6,
+      "title": "Impon bracelet",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/2/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 320/-"
+    },
+    {
+      "id" : 7,
+      "title": "Impon bracelet",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/3/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 320/-"
+    },
+
+    {
+      "id" : 8,
+      "title": "Impon bracelet",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/3/img2.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 320/-"
+    },
+    {
+      "id" : 9,
+      "title": "Impon bracelet",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/3/img3.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : 320/-"
+    },
+    {
+      "id" : 10,
+      "title": "Pure impon bangles ",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+      
+    },
+    {
+      "id" : 11,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img2.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 12,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img3.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 13,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img4.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 14,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img5.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 15,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img6.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 16,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img7.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 17,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img8.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 18,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img9.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 19,
+      "title": "Pure impon bangles",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/4/img10.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 20,
+      "title": "Christian thali chain",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/5/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 21,
+      "title": "Christian thali chain",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/5/img2.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+    },
+    {
+      "id" : 22,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/6/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 23,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/6/img2.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 24,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/6/img3.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 25,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/6/img4.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 26,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/6/img5.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 27,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/7/img1.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 28,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/7/img2.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 28,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/7/img3.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 29,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/7/img4.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 30,
+      "title": "Impon bangles ❤",
+      "description": "Free shipping",
+      "imageUrl": "assets/dataset/jwellery/7/img5.jpeg",
+      "mediaType": "image",
+      "category" : "jwellery",
+      "price":"Price : One pair:450/- Two pair:700/-"
+},
+    {
+      "id" : 31,
+      "title": "Saree",
+      "description": "Free shipping",
+      "": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n WITH INBUILT SEQUENCE WORK ALL OVER \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 32,
+      "title": "Saree",
+      "description": "Free shipping",
+      "long_description": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n  WITH INBUILT SEQUENCE WORK ALL OVER \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img2.jpg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 33,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n WITH INBUILT SEQUENCE WORK ALL OVER \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 34,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n  WITH INBUILT SEQUENCE WORK ALL OVER  \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE \n  *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 35,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n WITH INBUILT SEQUENCE WORK ALL OVER  \n THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE  \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 36,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n  WITH INBUILT SEQUENCE WORK ALL OVER \n  THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE  \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 37,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "ROYAL DOLA SEQUENCE SILK😍😍😍😍😍😍😍 \n EXCLUSIVE PREMIUM SOFT DOLA SILK \n  WITH INBUILT SEQUENCE WORK ALL OVER \n  THE SAREE  WITH RICH BENTEX CONTRAST JARI WEAVING BORDER N RUNNING BLOUSE  \n *SINGLES N MULTIPLES",
+      "imageUrl": "assets/dataset/Saree/1/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Price : 1200/- + free shipping"
+},
+    {
+      "id" : 38,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality  \n READY STOCK \n  BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 39,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality \n READY STOCK  \n  BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 40,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work  Original quality \n READY STOCK  \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 41,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality \n READY STOCK  \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 42,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality \n READY STOCK \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 43,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality  \n READY STOCK \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 44,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality \n READY STOCK  \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 45,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality \n READY STOCK  \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 46,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Presenting you most beautiful Saree collection \n 👇 Fabric details 👇 \n 🛑SAREE FABRIC - Rangoli silk with prizam print \n 🛑SAREE LENGTH- 5.50 Mtr \n 🛑SAREE WORK- Thread work with stone work \n 🛑BLOUSE FABRIC- Rangoli silk \n 🛑BLOUSE LENGTH- 1 Mtr with embroidery work Original quality \n  READY STOCK  \n BOOK YOUR ORDERS FAST",
+      "imageUrl": "assets/dataset/Saree/2/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price 1120/- + free shipping/-*"
+},
+    {
+      "id" : 47,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 48,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border \n  with Piping Border with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 49,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 50,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 51,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 53,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 54,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 55,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 56,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 57,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 58,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 59,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img12.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 60,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img13.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 61,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img14.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 62,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border \n  with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img15.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 63,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img16.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 64,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img17.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 65,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img18.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 66,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img19.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 67,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img20.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 68,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree \n  with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/img21.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 69,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/vid1.mp4",
+      "mediaType": "video",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 70,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Rich and Soft Banarasi Semi Soft Silk Saree with Pink, Copper and Gold Zari Long Leaf Design all over the Saree  \n with Rich Border with Piping Border  \n with Rich Contrast Pallu and Matching Rich Contrast Blouse",
+      "imageUrl": "assets/dataset/Saree/3/vid2.mp4",
+      "mediaType": "video",
+      "category" : "Saree",
+      "price":"Price :  1300/-  + free shipping"
+},
+    {
+      "id" : 71,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 72,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 73,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 74,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 75,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 76,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 77,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 78,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 79,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    { 
+      "id" : 80,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 81,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 82,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img12.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 83,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img13.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 84,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img14.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 85,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img15.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 86,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img16.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 87,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img17.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 88,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Design Launch  \n Fabric - Original Linen With Silver Jari Patta. \n Work - Digital Print. \n Saree length - 6.30 Cut (with Digital blouse). \n Blouse Fabric - Original Linen with silver jari patta with Digital print. \n More quantity discount available \n Uniform orders taken",
+      "imageUrl": "assets/dataset/Saree/4/img18.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 520/- + free shipping"
+},
+    {
+      "id" : 89,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 89,
+      "title": "Saree",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    { 
+      "id" : 90,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 91,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 92,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 93,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 94,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 95,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 96,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 97,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 98,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "KANJIVARAM SOFT PATTU WEAVING WITH FULL BROKET SELF WEAVING & DOUBLE KANCHI WEAVING BORDER DISPATCH SOON",
+      "imageUrl": "assets/dataset/Saree/5/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 880/-+ free shippihng"
+},
+    {
+      "id" : 99,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Arrival  \n Best Selling Product \n Georgette Saree With Netted Multi Sequence Emrodairy Work Blouse \n Ready Stock Available",
+      "imageUrl": "assets/dataset/Saree/6/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 700/- + free shipping"
+},
+    {
+      "id" : 100,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Arrival  \n Best Selling Product \n Georgette Saree With Netted Multi Sequence Emrodairy Work Blouse \n Ready Stock Available",
+      "imageUrl": "assets/dataset/Saree/6/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 700/- + free shipping"
+},
+    {
+      "id" : 101,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Arrival  \n Best Selling Product \n Georgette Saree With Netted Multi Sequence Emrodairy Work Blouse \n Ready Stock Available",
+      "imageUrl": "assets/dataset/Saree/6/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 700/- + free shipping"
+},
+    {
+      "id" : 102,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Arrival  \n Best Selling Product \n Georgette Saree With Netted Multi Sequence Emrodairy Work Blouse \n Ready Stock Available",
+      "imageUrl": "assets/dataset/Saree/6/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 700/- + free shipping"
+},
+    {
+      "id" : 103,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Arrival  \n Best Selling Product \n Georgette Saree With Netted Multi Sequence Emrodairy Work Blouse \n Ready Stock Available",
+      "imageUrl": "assets/dataset/Saree/6/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 700/- + free shipping"
+},
+    {
+      "id" : 104,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "New Arrival  \n Best Selling Product \n Georgette Saree With Netted Multi Sequence Emrodairy Work Blouse \n Ready Stock Available",
+      "imageUrl": "assets/dataset/Saree/6/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price : 700/- + free shipping"
+},
+    {
+      "id" : 105,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 106,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 106,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 107,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 108,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 109,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 110,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 111,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 112,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 113,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 114,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Combo offer \n Best quality sarees with blouse.. combo offer.. \n Fine quality \n Any combo u can select..",
+      "imageUrl": "assets/dataset/Saree/7/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :Buy 2 saree at just : 590/- + free shipping no less*"
+},
+    {
+      "id" : 115,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 116,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 117,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 118,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 119,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 120,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 121,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 122,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 123,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 124,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 125,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 126,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/img13.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 127,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/vid1.mp4",
+      "mediaType": "video",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 128,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "DESIGN -NAINTARA \n Something new in the fashion , A perfect printed saree  with finest katha thread work \n Fabric-cotton linen \n SIZE-6.30mtr with running Blouse \n Pattern- \n 1-  3D style print \n 2- katha work with matt sequins work \n 3- tussles in pallu",
+      "imageUrl": "assets/dataset/Saree/8/vid2.mp4",
+      "mediaType": "video",
+      "category" : "Saree",
+      "price":"Price :970/- + free shipping"
+},
+    {
+      "id" : 129,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 130,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 131,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 132,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 133,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 134,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Prem ium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 135,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 136,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 137,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 138,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 139,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 140,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Premium Quality \n Moss Chiffon Smoke Saree With Netted Emrodairy Work Blouse",
+      "imageUrl": "assets/dataset/Saree/9/img12.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Price :620/- + FREE SHIPPING Fix Price"
+},
+    {
+      "id" : 141,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "BIG BORDER PRINT COTTON SAREESE. 🌹Pure cotton fabric. \n 🌹100 count. \n  🌹Premium quality. \n  🌹With out  blouse. \n 🌹Soft and smooth. \n 🌹Daily wear.🌹Normal wash ",
+      "imageUrl": "assets/dataset/Saree/11/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Rate : 710/- + free shipping"
+},
+    {
+      "id" : 142,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "BIG BORDER PRINT COTTON SAREESE. \n 🌹Pure cotton fabric. \n 🌹100 count. \n 🌹Premium quality. \n 🌹With out  blouse. \n 🌹Soft and smooth. \n 🌹Daily wear. \n 🌹Normal wash ",
+      "imageUrl": "assets/dataset/Saree/11/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Rate : 710/- + free shipping"
+},
+    {
+      "id" : 143,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "BIG BORDER PRINT COTTON SAREESE. \n 🌹Pure cotton fabric. \n 🌹100 count. \n 🌹Premium quality. \n 🌹With out  blouse. \n 🌹Soft and smooth. \n 🌹Daily wear . \n 🌹Normal wash ",
+      "imageUrl": "assets/dataset/Saree/11/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Rate : 710/- + free shipping"
+},
+    {
+      "id" : 144,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "BIG BORDER PRINT COTTON SAREESE. \n 🌹Pure cotton fabric. \n 🌹100 count. \n 🌹Premium quality. \n 🌹With out  blouse. \n 🌹Soft and smooth. \n 🌹Daily wear. \n 🌹Normal wash ",
+      "imageUrl": "assets/dataset/Saree/11/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"🔥🔥🔥Rate : 710/- + free shipping"
+},
+    {
+      "id" : 145,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 146,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 147,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 148,
+"description": "Free shipping",
+      "title": "Saree",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 149,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 150,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 151,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 152,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 153,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 154,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 155,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img10.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 156,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img11.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 157,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img12.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 158,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img13.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 159,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img14.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 160,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img15.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 161,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img16.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 162,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img17.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 163,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img18.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 164,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img19.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 165,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img20.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 166,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img21.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 167,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img22.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 168,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img23.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 169,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img24.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 170,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img25.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 171,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img26.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 172,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img27.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 173,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img28.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    { 
+      "id" : 174,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img29.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 175,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img30.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 176,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img31.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 177,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img32.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 176,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img33.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 177,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img34.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 178,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img35.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 179,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img36.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 180,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img37.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 181,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img38.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 182,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img39.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 183,
+      "title": "Saree",
+"description": "Free shipping",
+      "long_description": "Special   samuthrika & vasthrakala type wedding model sarees.. \n 🌹Fancy design and fancy models.. \n 🌹Bady all over grand colour full Jari design s & also  vibrant colours.. \n 🌹Contrast pallu &blouse.. ",
+      "imageUrl": "assets/dataset/Saree/12/img40.jpeg",
+      "mediaType": "image",
+      "category" : "Saree",
+      "price":"Special price ::1450/- + free shipping....."
+},
+    {
+      "id" : 184,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT BOTTOM INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 185,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT BOTTOM INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 186,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT  BOTTOM INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 185,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT BOTTOM INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 186,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT BOTTOM INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 187,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT BOTTOM INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 188,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT  BOTTOM   INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 189,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT  BOTTOM   INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img8.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 190,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "TOP GEORGETTE NECK DIGITAL PRINT BOTTOM   INNER AND SANTOON DUPPATTA  gorgeat DIGITAL PRINT MIRROR ",
+      "imageUrl": "assets/dataset/Sudi/1/img9.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"PRICE 1140/- +FREESHIPING"
+},
+    {
+      "id" : 191,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img1.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+    {
+      "id" : 192,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img2.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+    {
+      "id" : 193,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img3.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+    {
+      "id" : 194,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img4.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+    {
+      "id" : 195,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img5.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+    {
+      "id" : 196,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img6.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+    {
+      "id" : 197,
+      "title": "Sudi",
+"description": "Free shipping",
+      "long_description": "Top cotton Worli work. 250mtr Bottom cotton 2mtr Dupatta chiffon Worli print.2.25mtr",
+      "imageUrl": "assets/dataset/Sudi/2/img7.jpeg",
+      "mediaType": "image",
+      "category" : "Sudi",
+      "price":"Price : 730/- +  free shipping"
+},
+{
+  "id" : 198,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool 🥳Beauty Brand Pure cotton Ajrakh print Nighties \n ☘️  With zip, pocket & piping model \n Size:XL Chest: Around 45 inch Height: Around 56 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/1/img1.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : Price: 320/-+$*"
+},
+{
+  "id" : 199,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool 🥳Beauty Brand Pure cotton Ajrakh print Nighties \n ☘️  With zip, pocket & piping model \n Size:XL Chest: Around 45 inch Height: Around 56 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/1/img2.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : Price: 320/-+$*"
+},
+{
+  "id" : 200,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool 🥳Beauty Brand Pure cotton Ajrakh print Nighties \n ☘️  With zip, pocket & piping model \n Size:XL Chest: Around 45 inch Height: Around 56 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/1/img3.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : Price: 320/-+$*"
+},
+{
+  "id" : 201,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img1.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 202,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img2.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 203,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img3.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 204,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img4.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 205,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img5.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 206,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img6.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 207,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img7.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 208,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img8.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 209,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Beauty Brand Pure cotton Frock Nighty \n Adjustable knot with zip, puff sleeve Bottom end frill & pocket available \n Size:XL CHEST:47 inch \nHeight:49 inch",
+  "imageUrl": "assets/dataset/Nighty/2/img9.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 360/- +$"
+},
+{
+  "id" : 210,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool  🥳 \n Beauty Brand Pure cotton Nighties \n ☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 47 inch \n  Height: Around 54 inchh",
+  "imageUrl": "assets/dataset/Nighty/3/img1.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 211,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool  🥳 \n Beauty Brand Pure cotton Nighties \n ☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 47 inch \n  Height: Around 54 inchh",
+  "imageUrl": "assets/dataset/Nighty/3/img2.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 212,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool  🥳 \n Beauty Brand Pure cotton Nighties \n ☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 47 inch \n  Height: Around 54 inchh",
+  "imageUrl": "assets/dataset/Nighty/3/img3.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 213,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool  🥳 \n Beauty Brand Pure cotton Nighties \n ☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 47 inch \n  Height: Around 54 inchh",
+  "imageUrl": "assets/dataset/Nighty/3/img4.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 214,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool  🥳 \n Beauty Brand Pure cotton Nighties \n ☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 47 inch \n  Height: Around 54 inchh",
+  "imageUrl": "assets/dataset/Nighty/3/img5.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 215,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool \n Beauty Brand Pure cotton Nighties \n☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 44 inch \n Height: Around 55 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/4/img1.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 216,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool \n Beauty Brand Pure cotton Nighties \n☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 44 inch \n Height: Around 55 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/4/img2.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 217,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool \n Beauty Brand Pure cotton Nighties \n☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 44 inch \n Height: Around 55 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/4/img3.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 218,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool \n Beauty Brand Pure cotton Nighties \n☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 44 inch \n Height: Around 55 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/4/img4.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 219,
+  "title": "Nighty",
+"description": "Free shipping",
+  "long_description ": "Feel cool \n Beauty Brand Pure cotton Nighties \n☘️  With zip, pocket & piping model \n Size:XL \n Chest: Around 44 inch \n Height: Around 55 inch \n 3 pcs free shipping  Allover India",
+  "imageUrl": "assets/dataset/Nighty/4/img5.jpeg",
+  "mediaType": "image",
+  "category" : "Nighty",
+  "price":"Price : 320/- +$*"
+},
+{
+  "id" : 220,
+  "title": "kids",
+"description": "Free shipping",
+  "long_description ": "🌸 Pankhudi  elegant 7 feeder textures & rich zari weaving Paithani silk Lehenga for kids \n 🌸 Lehenga: Beige white Paithani silk Fully stitched and full Inner with can - can \n🌸 Blouse: *puff sleeved Fully stitched Multi Color,  meena texture silk blouse with striped  fancy lace *Size As Per Size Chart \n  After Booking Next Day Pickup \n Read Size Chart For Perfection Of Size",
+  "imageUrl": "assets/dataset/Kids/1/img1.jpeg",
+  "mediaType": "image",
+  "category" : "kids",
+  "price":"Price : 1550/- *"
+},
+{
+  "id" : 221,
+  "title": "kids",
+"description": "Free shipping",
+  "long_description ": "🌸 Pankhudi  elegant 7 feeder textures & rich zari weaving Paithani silk Lehenga for kids \n 🌸 Lehenga: Beige white Paithani silk Fully stitched and full Inner with can - can \n🌸 Blouse: *puff sleeved Fully stitched Multi Color,  meena texture silk blouse with striped  fancy lace *Size As Per Size Chart \n After Booking Next Day Pickup \n Read Size Chart For Perfection Of Size",
+  "imageUrl": "assets/dataset/Kids/1/img2.jpeg",
+  "mediaType": "image",
+  "category" : "kids",
+  "price":"Price : 1550/- *"
+},
+{
+  "id" : 222,
+  "title": "kids",
+"description": "Free shipping",
+  "long_description ": "🌸 Pankhudi  elegant 7 feeder textures & rich zari weaving Paithani silk Lehenga for kids \n 🌸 Lehenga: Beige white Paithani silk Fully stitched and full Inner with can - can \n🌸 Blouse: *puff sleeved Fully stitched Multi Color,  meena texture silk blouse with striped  fancy lace *Size As Per Size Chart \n After Booking Next Day Pickup \n Read Size Chart For Perfection Of Size",
+  "imageUrl": "assets/dataset/Kids/1/img3.jpeg",
+  "mediaType": "image",
+  "category" : "kids",
+  "price":"Price : 1550/- *"
+},
+{
+  "id" : 223,
+  "title": "kids",
+"description": "Free shipping",
+  "long_description ": "🌸 Pankhudi  elegant 7 feeder textures & rich zari weaving Paithani silk Lehenga for kids \n 🌸 Lehenga: Beige white Paithani silk Fully stitched and full Inner with can - can \n🌸 Blouse: *puff sleeved Fully stitched Multi Color,  meena texture silk blouse with striped  fancy lace *Size As Per Size Chart \n After Booking Next Day Pickup \n Read Size Chart For Perfection Of Size",
+  "imageUrl": "assets/dataset/Kids/1/img4.jpeg",
+  "mediaType": "image",
+  "category" : "kids",
+  "price":"Price : 1550/- *"
+},
+{
+  "id" : 224,
+  "title": "kids",
+"description": "Free shipping",
+  "long_description ": "🌸 Pankhudi  elegant 7 feeder textures & rich zari weaving Paithani silk Lehenga for kids \n 🌸 Lehenga: Beige white Paithani silk Fully stitched and full Inner with can - can \n🌸 Blouse: *puff sleeved Fully stitched Multi Color,  meena texture silk blouse with striped  fancy lace *Size As Per Size Chart \n After Booking Next Day Pickup \n Read Size Chart For Perfection Of Size",
+  "imageUrl": "assets/dataset/Kids/1/img5.jpeg",
+  "mediaType": "image",
+  "category" : "kids",
+  "price":"Price : 1550/- *"
+}
+    
+]
+}

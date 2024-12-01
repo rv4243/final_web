@@ -1,0 +1,127 @@
+/* Product card container */
+.product-card {
+  display: flex;                     /* Flexbox for layout */
+  max-width: 900px;                 /* Maximum width */
+  margin: auto;                      /* Center the card */
+  padding: 20px;                    /* Inner padding */
+  border: 1px solid #e5e5e5;        /* Light gray border */
+  border-radius: 5px;               /* Slight rounding of corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Image section */
+.product-image {
+  position: relative;                /* Relative positioning for the badge */
+  width: 40%;                       /* Reduced width for the image (from 50% to 40%) */
+  padding-right: 20px;              /* Space between image and info */
+}
+
+.sale-badge {
+  position: absolute;                /* Positioned inside the image */
+  top: 10px;                        /* Distance from the top */
+  left: 10px;                       /* Distance from the left */
+  background-color: #fff;           /* White background */
+  padding: 5px 10px;                /* Inner padding */
+  border-radius: 50%;               /* Circular badge */
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  font-weight: bold;                /* Bold text */
+}
+
+/* Image styling */
+.product-image img {
+  width: 100%;                       /* Full width of the container */
+  border-radius: 5px;               /* Rounded corners for image */
+  transition: transform 0.3s;       /* Smooth scaling effect on hover */
+}
+
+.product-image img:hover {
+  transform: scale(1.05);           /* Slight zoom effect on hover */
+}
+
+/* Info section */
+.product-info {
+  width: 60%;                       /* Adjusted width for product info (from 50% to 60%) */
+  padding-left: 20px;               /* Space between image and info */
+}
+
+/* Breadcrumbs styling */
+.breadcrumb {
+  font-size: 0.9em;                 /* Smaller font size */
+  color: #999;                       /* Gray color */
+  margin-bottom: 10px;              /* Space below */
+}
+
+/* Title styling */
+.product-title {
+  font-size: 2em;                   /* Large title font */
+  margin-bottom: 10px;              /* Space below title */
+}
+
+/* Price styling */
+.price {
+  margin-bottom: 15px;              /* Space below price */
+}
+
+.original-price {
+  text-decoration: line-through;     /* Strikethrough for original price */
+  color: #999;                       /* Gray color */
+}
+
+.discounted-price {
+  font-size: 1.5em;                 /* Larger font for discounted price */
+  color: #e91e63;                    /* Pink color for discounted price */
+  margin-left: 10px;                /* Space to the left */
+}
+
+.free-shipping {
+  color: #28a745;                   /* Green color for free shipping */
+  font-size: 0.9em;                 /* Smaller font size */
+  margin-left: 10px;                /* Space to the left */
+}
+
+/* Description styling */
+.description {
+  margin-bottom: 10px;              /* Space below description */
+  line-height: 1.6;                 /* Line height for readability */
+}
+
+/* Quantity selector styling */
+.quantity {
+  display: flex;                    /* Flexbox for layout */
+  align-items: center;              /* Center items vertically */
+  margin-bottom: 15px;              /* Space below quantity section */
+}
+
+.quantity button {
+  width: 30px;                      /* Fixed width for buttons */
+  height: 30px;                     /* Fixed height for buttons */
+  background-color: #e5e5e5;        /* Light gray background */
+  border: none;                     /* No border */
+  cursor: pointer;                  /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.quantity button:hover {
+  background-color: #d5d5d5;        /* Slightly darker gray on hover */
+}
+
+.quantity input {
+  width: 50px;                     /* Fixed width for input */
+  text-align: center;              /* Center text inside input */
+  margin: 0 10px;                  /* Space around input */
+}
+
+/* Add to cart button styling */
+.add-to-cart {
+  padding: 10px 20px;              /* Padding for button */
+  background-color: #dddddd;       /* Blue background */
+  color: #fff;                     /* White text */
+  border: none;                    /* No border */
+  cursor: pointer;                 /* Pointer cursor on hover */
+  border-radius: 5px;              /* Rounded corners */
+  transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.add-to-cart:hover {
+  background-color: #DC5F00;       /* Darker blue on hover */
+}

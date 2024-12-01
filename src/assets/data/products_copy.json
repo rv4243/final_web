@@ -1,0 +1,91 @@
+{
+  "items": [
+  {
+    "id" : 1,
+    "title": "Stone necklace ❤",
+    "description": "Free shipping",
+    "imageUrl": "assets/dataset/jwellery/1/img1.jpeg",
+    "gender" : "men",
+    "category" : "jwellery",
+    "price":"Price : 740/-"
+  },
+  {
+    "id" : 2,
+    "title": "Mountain Peaks",
+    "description": "Snow-covered mountain peaks under a clear sky.",
+    "imageUrl": "assets/img2.jpeg",
+    "gender" : "men",
+    "category" : "jwell",
+    "price":"100"
+
+  },
+  {
+    "id" : 3,
+    "title": "Forest Path",
+    "description": "A peaceful path through a lush green forest.",
+    "imageUrl": "assets/img3.jpeg",
+    "gender" : "women",
+    "category" : "jwell"
+
+  },
+  {
+    "id" : 4,
+    "title": "Sunset Over the Beach",
+    "description": "A beautiful sunset over a calm beach.",
+    "imageUrl": "assets/img4.jpeg",
+    "gender" : "men",
+    "category" : "jwell"
+
+  },
+  {
+    "id" : 5,
+    "title": "Mountain Peaks",
+    "description": "Snow-covered mountain peaks under a clear sky.",
+    "imageUrl": "assets/img5.jpeg",
+    "gender" : "women",
+    "category" : "chudi"
+
+
+  },
+  {
+    "id" : 6,
+    "title": "Forest Path",
+    "description": "A peaceful path through a lush green forest.",
+    "imageUrl": "assets/img6.jpeg",
+    "gender" : "women",
+    "category" : "chudi"
+
+
+  },
+  {
+    "id" : 7,
+    "title": "Sunset Over the Beach",
+    "description": "A beautiful sunset over a calm beach.",
+    "imageUrl": "assets/img7.jpeg",
+    "gender" : "men",
+    "category" : "chudi"
+
+
+  },
+  {
+    "id" : 8,
+    "title": "Mountain Peaks",
+    "description": "Snow-covered mountain peaks under a clear sky.",
+    "imageUrl": "assets/img8.jpeg",
+    "gender" : "men",
+    "category" : "kids"
+
+
+  },
+  {
+    "id" : 9,
+    "title": "Forest Path",
+    "description": "A peaceful path through a lush green forest.",
+    "imageUrl": "assets/img9.jpeg",
+    "gender" : "men",
+    "category" : "kids"
+
+
+  }
+]
+}

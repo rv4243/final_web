@@ -1,0 +1,63 @@
+/* Fixed navbar at the top */
+.static {
+  position: fixed;               /* Keeps the navbar at the top */
+  top: 0;                        /* Sticks to the top of the viewport */
+  width: 100%;                   /* Full-width navbar */
+  z-index: 999;                  /* Ensures it stays above other elements */
+  background-color: rgba(40, 116, 240, 0.9);
+  height: 85px;                  /* Fixed height */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Subtle shadow for a sleek look */
+}
+
+/* Top navigation bar */
+.topnav {
+  background-color: rgba(40, 116, 240, 0.9);
+  padding: 15px 0;                     /* Vertical padding */
+  height: 85px;                        /* Height matches the navbar */
+  width: 100%;                         /* Full-width navigation */
+  display: flex;                       /* Flexbox for layout */
+  justify-content: center;             /* Centers the navigation links */
+  margin-left: -16px;                  /* Adjusts alignment for layout */
+}
+
+/* Styling the links inside the navigation bar */
+.topnav a {
+  display: block;                       /* Links are block-level */
+  color: #FFFFFF;                       /* White text color */
+  text-align: center;                   /* Center text inside each link */
+  padding: 14px 16px;                   /* Adds space around each link */
+  text-decoration: none;                /* Removes underline from links */
+  font-size: 20px;                      /* Font size for links */
+  font-family: Arial, sans-serif;       /* Clean, modern font */
+}
+
+/* Hover effect for links */
+.topnav a:hover {
+  color: #ff7f1c;                       /* Changes text color to orange on hover */
+}
+
+/* Active page link styling */
+.topnav a.active {
+  background-color: #04AA6D;            /* Green background for active page */
+  color: #FFFFFF;                       /* White text */
+  font-weight: bold;                    /* Bold text for emphasis */
+  border-radius: 4px;                   /* Slight rounding for the active link */
+  padding: 14px 18px;                   /* Slightly larger padding for active link */
+}
+
+/* Responsive design for smaller screens (max-width: 768px) */
+@media screen and (max-width: 768px) {
+  .topnav {
+    justify-content: flex-start;        /* Align navigation links to the left */
+    padding-left: 0;                    /* Remove left padding */
+  }
+
+  .topnav a {
+    font-size: 18px;                    /* Slightly smaller text for smaller screens */
+  }
+}
+
+/* Hide toggle button for mobile screens initially */
+.topnav .i {
+  display: none;                        /* Hidden by default */
+}

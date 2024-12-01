@@ -1,0 +1,47 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav mode="side" opened>
+    <mat-nav-list>
+
+      <div class="sidebar">
+        <button mat-button (click)="doFilter('jwellery')" id="jwell">Jewellery</button>
+        <button mat-button (click)="doFilter('Saree')" id="nighty">Saree</button>
+        <button mat-button (click)="doFilter('Sudi')" id="saree">Sudi</button>
+        <button mat-button (click)="doFilter('Nighty')" id="sudi">Nighty</button>
+        <button mat-button (click)="doFilter('kids')" id="clear">Kids</button>
+      </div>
+
+  </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <div class="container responsive-grid">
+      <mat-card *ngFor="let item of filteredList" routerLink="home">
+          <ng-container *ngIf="item.mediaType === 'image'; else videoTemplate" >
+              <img [src]="item.imageUrl" alt="{{ item.title }}" class="card-img-top" (click)="router.navigateByUrl('/product/' + item?.id)" />
+            </ng-container>
+            <ng-template #videoTemplate>
+              <video autoplay muted loop class="card-img-top">
+                <source [src]="item.imageUrl" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </ng-template>
+        <mat-card-header>
+          <mat-card-title>{{ item.title }}</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p>{{ item.price }}</p>
+
+          <p>{{ item.description }}</p>
+          <button (click)="addToCart(item)" class="btn btn-primary">Add to Cart</button>
+          <button (click)="redirectToGoogleForm()"  class="btn btn-primary">Buy Now</button>
+
+
+
+        </mat-card-content>
+
+      </mat-card>
+    </div>
+    </mat-sidenav-content>
+
+
+</mat-sidenav-container>

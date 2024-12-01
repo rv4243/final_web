@@ -1,0 +1,45 @@
+<!-- <div class="card" *ngFor="let product of filteredList">
+    <div class="card-body">
+      <h5 class="card-title">{{ product.title }}</h5>
+      <p class="card-text">{{ product.description }}</p>
+  
+      <ng-container *ngIf="product.mediaType === 'image'; else videoTemplate">
+        <img [src]="product.mediaSource" alt="{{ product.title }}" class="card-img-top" />
+      </ng-container>
+  
+      <ng-template #videoTemplate>
+        <video controls class="card-img-top">
+          <source [src]="product.mediaSource" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </ng-template>
+    </div>
+  </div> -->
+  <mat-sidenav-content>
+  <div class="container responsive-grid">
+    <mat-card *ngFor="let item of filteredList" routerLink="home">
+        <ng-container *ngIf="item.mediaType === 'image'; else videoTemplate">
+            <img [src]="item.mediaSource" alt="{{ item.title }}" class="card-img-top" (click)="router.navigateByUrl('/product/' + item?.id)" />
+          </ng-container> 
+          <ng-template #videoTemplate>
+            <video controls class="card-img-top">
+              <source [src]="item.mediaSource" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </ng-template>
+      <mat-card-header>
+        <mat-card-title>{{ item.title }}</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>{{ item.price }}</p>
+  
+        <p>{{ item.description }}</p>
+  
+      </mat-card-content>
+     
+    </mat-card>
+  </div>
+  </mat-sidenav-content>
+  
+  
+  

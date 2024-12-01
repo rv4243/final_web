@@ -1,0 +1,35 @@
+.sidenav-container {
+  height: 100%;
+  width: 100%;
+}
+
+mat-sidenav {
+  top: 80px;
+  /* width: 200px; */
+}
+
+mat-toolbar {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  margin: 0;
+  margin-left: 0;
+  width: 100%;
+}
+
+/* .content {
+  padding: 16px;
+} */
+
+body{
+  padding-top: 80px;
+}
+
+.mat-toolbar-row, .mat-toolbar-row {
+  display: flex;
+  box-sizing: border-box;margin-left: 0%;
+  flex-direction: row;
+  align-items: center;
+  white-space: nowrap;
+  height: var(--mat-toolbar-standard-height);
+}

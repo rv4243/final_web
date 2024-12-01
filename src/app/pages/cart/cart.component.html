@@ -1,0 +1,68 @@
+<div class="cart-container">
+    <h2>Cart</h2>
+    <div *ngFor="let item of cartItems" class="cart-item">
+      <img [src]="item.imageUrl" alt="Product Image" width="100">
+      <h5>{{ item.title }}</h5>
+      <p>{{ item.description }}</p>
+      <p>{{ item.price }}</p>
+    </div>
+    <button (click)="redirectToGoogleForm()" class="btn btn-success">Buy All</button>
+  </div>
+
+
+  <!-- <div class="cart-table">
+    <div class="cart-header">
+      <div class="cart-col">Product</div>
+      <div class="cart-col">Price</div>
+      <div class="cart-col">Quantity</div>
+      <div class="cart-col">Total Price</div>
+    </div>
+
+    <div class="cart-item">
+      <div class="cart-col product-info">
+        <img src="path-to-image-1.jpg" alt="Product Image">
+        <div class="product-details">
+          <p class="product-category">WOMEN</p>
+          <p class="product-name">Floral Print Wrap Dress</p>
+          <p>Color: Blue</p>
+          <p>Size: 42</p>
+        </div>
+      </div>
+      <div class="cart-col">
+        <p class="price">$20.50</p>
+      </div>
+      <div class="cart-col quantity-control">
+        <button>-</button>
+        <input type="text" value="2">
+        <button>+</button>
+      </div>
+      <div class="cart-col">
+        <p class="total-price">$41.00</p>
+      </div>
+    </div>
+
+    <div class="cart-item">
+      <div class="cart-col product-info">
+        <img src="path-to-image-2.jpg" alt="Product Image">
+        <div class="product-details">
+          <p class="product-category">WOMEN</p>
+          <p class="product-name">Floral Print Wrap Dress</p>
+          <p>Color: Blue</p>
+          <p>Size: 42</p>
+        </div>
+      </div>
+      <div class="cart-col">
+        <p class="price">$30.50</p>
+      </div>
+      <div class="cart-col quantity-control">
+        <button>-</button>
+        <input type="text" value="1">
+        <button>+</button>
+      </div>
+      <div class="cart-col">
+        <p class="total-price">$30.50</p>
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <button class="checkout-btn">Buy All</button> -->

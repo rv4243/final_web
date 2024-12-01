@@ -1,0 +1,46 @@
+.sidenav {
+  height: 100%; /* Full height */
+  width: 200px; /* Width of the sidebar */
+  position: fixed; /* Fixed Sidebar */
+  background-color: #f1f1f1; /* Light gray */
+  padding-top: 20px; /* Padding from the top */
+}
+
+.sidenav button {
+  padding: 5px;
+  left: -50px; /* Initially outside the screen */
+
+  width: 200px; /* Fixed width */
+  text-align: center;
+  background: none;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0 5px 5px 0; 
+  padding-bottom: 5px;/* Rounded corners */
+
+}
+
+.sidenav button:hover {
+left: 0; /* Bring the button into view */
+  background-color: rgba(40, 116, 240, 0.9); /* Change background on hover */
+  color: #EEEEEE;}
+
+.content {
+  margin-left: 220px; /* Margin to shift the content next to the sidebar */
+  padding: 10px;
+}
+
+/* Sidebar buttons */
+.sidebar button {
+  position: absolute; /* Position them relative to the browser window */
+  left: -50px; /* Initially outside the screen */
+  transition: 0.3s; /* Smooth transition on hover */
+  padding: 5px;
+  padding-left: 50px; /* Padding adjustment */
+  width: 200px; /* Fixed width */
+  text-decoration: none; /* No underline */
+  font-size: 20px; /* Font size */
+  color: #EEEEEE; /* Text color */
+  border-radius: 0 5px 5px 0; /* Rounded corners */
+}
+
